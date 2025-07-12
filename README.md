@@ -1,5 +1,6 @@
 ### Browse at your leisure
 Remember that the python virtual environment folder and .env file are in gitignore.
+[Flask tutorial series beginner](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&index=1)
 
 ### To create a python venv (virtual environment) from the command line
 1. Create a new directory (folder)
